@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
-<!--
-**galpratama/galpratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [BuildWith Angga](https://buildwithangga.com) as a COO & Co-Founder.
+- 🌱 I’m currently learning Github Actions.
+- 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (VueJS preferrable).
+- 🤔 I’m looking for help with building a new course at [BuildWith Angga](https://buildwithangga.com).
+- 💬 Ask me about anything related to PHP, Laravel and JavaScript (VueJS preferrable).
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/galih.pratama) or [Twitter](https://twitter.com/galpratama)
+- 😄 Pronouns: he/him.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galpratama)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
