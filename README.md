@@ -8,7 +8,7 @@
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/galih.pratama) or [Twitter](https://twitter.com/galpratama)
 - 😄 Pronouns: he/him.
 
-### My Online Courses
+### Learn from my Online Courses
 - [Full-Stack Web Developer: Travel](https://buildwithangga.com/kelas/full-stack-web-developer?main_leads=github)
 - [Full-Stack Web Developer: Toko Online](https://buildwithangga.com/kelas/full-stack-web-developer-toko-online?main_leads=github)
 - [Full-Stack Laravel Flutter: E-Commerce App](https://buildwithangga.com/kelas/full-stack-laravel-flutter-e-commerce-app?main_leads=github)
