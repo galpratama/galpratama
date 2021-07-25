@@ -1,7 +1,7 @@
 ### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
 - 🔭 I’m currently working at [BuildWith Angga](https://buildwithangga.com) as a COO & Co-Founder.
-- 🌱 I’m currently learning Github Actions.
+- 🌱 I’m currently learning Github Actions, Docker & Kubernetes.
 - 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (VueJS preferrable).
 - 🤔 I’m looking for help with building a new course at [BuildWith Angga](https://buildwithangga.com).
 - 💬 Ask me about anything related to PHP, Laravel and JavaScript (VueJS preferrable).
