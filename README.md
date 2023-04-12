@@ -1,6 +1,6 @@
 ### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
-- 🔭 I’m currently Owner of [BelajarKoding](https://belajarkoding.com) and also at [BuildWith Angga](https://buildwithangga.com) as a Full-stack Developer Mentor 
+- 🔭 I’m currently Owner of [BelajarKoding](https://belajarkoding.com) and also at [BuildWith Angga](https://buildwithangga.com) as a Coding Mentor 
 - 🌱 I’m currently learning Github Actions, Docker & Kubernetes.
 - 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (Laravel, VueJS & NuxtJS preferrable).
 - 💬 Ask me about anything related to PHP, Laravel and JavaScript. 
