@@ -1,4 +1,4 @@
-<a href="https://sony-ak.com" target="_blank">
+<a href="https://galihpratama.com" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=galpratama&color=blueviolet&style=flat">
 </a>
 <a href="https://github.com/sponsors/galpratama" target="_blank">
