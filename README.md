@@ -1,13 +1,6 @@
-<a href="https://galihpratama.com" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=galpratama&color=blueviolet&style=flat">
-</a>
-<a href="https://github.com/sponsors/galpratama" target="_blank">
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/galpratama">
-</a>
-<a href="https://youtube.com/@synclicious" target="_blank">
-  <img alt="BLJ" src="https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social&label=YouTube">
-</a>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=galpratama&color=blueviolet&style=flat)](https://galihpratama.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/galpratama)](https://github.com/sponsors/galpratama)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social&label=YouTube)](https://youtube.com/@synclicious)
 
 ### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
