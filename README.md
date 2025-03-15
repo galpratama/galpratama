@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Support me to develop more open source software or educational material through:
+###  Support me to develop more open source software or educational material 
 
 - GitHub Sponsor https://github.com/sponsors/galpratama
 - PayPal https://paypal.me/laraveltz
