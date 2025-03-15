@@ -4,7 +4,7 @@
 
 ### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
-- 🔭 I’m currently Working as a Front-end Developer at  [2Viz](https://2viz.io), Owner of [BelajarKoding](https://belajarkoding.com) and also as a Full-stack Coding Mentor 
+- 🔭 I’m currently Working as a Front-end Developer at  [2Viz](https://2viz.io), Owner of [BelajarKoding](https://instagram.com/belajarkoding) and also as a Full-stack Coding Mentor 
 - 🌱 I’m currently learning AI, MCP, Docker & Kubernetes.
 - 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (Laravel, React, Next, Vue, Nuxt preferrable).
 - 💬 Ask me about anything related to PHP, Laravel, Javascript, React and Vue. 
