@@ -1,5 +1,4 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=galpratama&color=blueviolet&style=flat)](https://galihpratama.com)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/galpratama)](https://github.com/sponsors/galpratama)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social&label=YouTube)](https://youtube.com/@synclicious)
 
 ### Hi there, I'm [Galih](https://galihpratama.com)! 👋
