@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (Laravel, React, Next, Vue, Nuxt preferrable).
 - 💬 Ask me about anything related to PHP, Laravel, Javascript, React and Vue. 
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/galih.pratama), [Threads](https://www.threads.net/@galih.pratama), [Tiktok](https://tiktok.com/@laraveltz)  or [X](https://x.com/galpratama)
-- 🚀 Learn with me and support me at [BuildWithAngga](https://buildwithangga.com/mentor/galpratama)
+- 🚀 Learn with me and support me at [BelajarKoding](https://belajarkoding.com) and  [BuildWithAngga](https://buildwithangga.com/mentor/galpratama)
 
 ### Top Languange
 
@@ -22,6 +22,7 @@
 
 ###  Support me to develop more open source software or educational material 
 
+- [BelajarKoding](https://belajarkoding.com)
 - [BuildWithAngga Classes](https://buildwithangga.com/mentor/galpratama)
 - [GitHub Sponsor](https://github.com/sponsors/galpratama)
 - [PayPal](https://paypal.me/laraveltz)
