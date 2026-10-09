@@ -78,13 +78,6 @@ I build and run my own AI education ecosystem:
 </table>
 
 ---
-
-### 🚀 Support my work
-
-- [BelajarKoding](https://belajarkoding.com)
-- [GitHub Sponsors](https://github.com/sponsors/galpratama)
-
----
 Best regards,<br>
 Galih Pratama<br>
 hi@galihpratama.com
