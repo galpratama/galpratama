@@ -56,8 +56,14 @@ I build and run my own AI education ecosystem:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/galpratama/galpratama/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Galih's GitHub stats](https://github-readme-stats.vercel.app/api?username=galpratama&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&theme=dark_github" />
+  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&theme=light_github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=galpratama&show_icons=true&theme=dark_github" />
+  <img alt="Galih's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=galpratama&show_icons=true&theme=light_github" />
+</picture>
 
 ---
 
