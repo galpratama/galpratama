@@ -1,30 +1,34 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=galpratama&color=blueviolet&style=flat)](https://galihpratama.com)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social&label=YouTube)](https://youtube.com/@synclicious)
+### Hi, I'm Galih 👋
 
-### Hi there, I'm [Galih](https://galihpratama.com)! 👋
+10+ years of product engineering, from jQuery-era landing pages to agent orchestration in production. These days I help developers and teams adopt AI that actually ships, not just demos.
 
-- 🔭 I’m currently Working as a Front-end Developer at  [2Viz](https://2viz.io), Owner of [BelajarKoding](https://instagram.com/belajarkoding) and also as a Full-stack Coding Mentor 
-- 🌱 I’m currently learning AI, MCP, Docker & Kubernetes.
-- 👯 I’m looking to collaborate on  any open source projects related to PHP, Laravel and JavaScript (Laravel, React, Next, Vue, Nuxt preferrable).
-- 💬 Ask me about anything related to PHP, Laravel, Javascript, React and Vue. 
-- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/galih.pratama), [Threads](https://www.threads.net/@galih.pratama), [Tiktok](https://tiktok.com/@laraveltz)  or [X](https://x.com/galpratama)
-- 🚀 Learn with me and support me at [BelajarKoding](https://belajarkoding.com) and  [BuildWithAngga](https://buildwithangga.com/mentor/galpratama)
+I build and run my own AI education ecosystem:
 
-### Top Languange
+- 🤖 [KelasClaude](https://kelasclaude.com) — Master Claude Code & agentic workflows for Indonesian devs
+- ⚡ [JagoHermes](https://jagohermes.com) — Build, extend & automate with Hermes Agent
+- 🌱 [BelajarVibeCoding](https://belajarvibecoding.com) — Ship your first real app with AI
+- 🤝 [Ailene](https://ailene.id) — AI-powered learning experiences
+- 🛠️ [BeresinAplikasi](https://beresinaplikasi.com) — AI-assisted app audits & fixes
+
+**Now playing with:** AI agents, MCP servers, LLM routing, and how small teams run like big ones with agents doing the boring parts.
+
+💬 Ask me about PHP, Laravel, JavaScript (React, Next, Vue, Nuxt), and anything AI agents — Claude Code, Hermes, automation, agentic workflows.
+
+📫 Reach me on [X](https://x.com/galihpratama), [Instagram](https://instagram.com/galih.pratama), [Threads](https://www.threads.net/@galih.pratama), or [galihpratama.com](https://galihpratama.com)
+
+---
+
+### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Galih's GitHub stats](https://github-readme-stats.vercel.app/api?username=galpratama&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Coding Statistics
+---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f070cb8-1bc8-4944-a297-a55b78f00cb3/97393e42-9690-42a7-acaa-78bd310232fd.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f070cb8-1bc8-4944-a297-a55b78f00cb3/13cec2c3-ebf3-469f-a75c-1f7198ea6ff8.png" /></a>
-
-###  Support me to develop more open source software or educational material 
+### 🚀 Support my work
 
 - [BelajarKoding](https://belajarkoding.com)
-- [BuildWithAngga Classes](https://buildwithangga.com/mentor/galpratama)
-- [GitHub Sponsor](https://github.com/sponsors/galpratama)
-- [PayPal](https://paypal.me/laraveltz)
+- [GitHub Sponsors](https://github.com/sponsors/galpratama)
 
 ---
 Best regards,<br>
