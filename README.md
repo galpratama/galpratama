@@ -57,8 +57,8 @@ I build and run my own AI education ecosystem:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&theme=dark_github" />
-  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&theme=light_github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&card_width=467&theme=dark_github" />
+  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=galpratama&layout=compact&card_width=467&theme=light_github" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=galpratama&show_icons=true&theme=dark_github" />
