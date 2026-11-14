@@ -25,10 +25,10 @@ I build and run my own AI education ecosystem:
 
 - **2014** — Started shipping client work in the jQuery & PHP freelance era
 - **2018** — Talks & workshops at BandungJS, DSC Widyatama, and local dev meetups
-- **2020** — Full-stack mentor for Indonesian devs: Laravel + Vue classes (Nomads, Shayna, Zullkit) and [BelajarKoding](https://belajarkoding.com)
+- **2020** — Full-stack mentor for Indonesian devs: Laravel + Vue classes under [BelajarKoding](https://belajarkoding.com) brand, in partnership with one of Indonesian Learning Platform
 - **2022** — Product engineering on Laravel/Vue SaaS: bookings, invoicing, e-learning platforms
 - **2024** — Went all-in on AI-assisted engineering: Claude Code, agents, MCP
-- **2026** — Running an AI education ecosystem: KelasClaude, JagoHermes, BelajarVibeCoding, Ailene
+- **2026** — Running an AI education ecosystem: KelasClaude, JagoHermes, BelajarVibeCoding, now under [Ailene](https://ailene.id) brand
 
 ---
 
