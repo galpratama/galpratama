@@ -6,7 +6,7 @@
 
 ### Hi, I'm Galih 👋
 
-10+ years of product engineering, from jQuery-era landing pages to agent orchestration in production. These days I help developers and teams adopt AI that actually ships, not just demos.
+10+ years of product engineering, from jQuery-era landing pages to agent orchestration in production. These days I help teams adopt AI that actually ships.
 
 I build and run my own AI education ecosystem:
 
