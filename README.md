@@ -14,7 +14,6 @@ I build and run my own AI education ecosystem:
 - ⚡ [JagoHermes](https://jagohermes.com) — Build, extend & automate with Hermes Agent
 - 🌱 [BelajarVibeCoding](https://belajarvibecoding.com) — Ship your first real app with AI
 - 🤝 [Ailene](https://ailene.id) — AI-powered learning experiences
-- 🛠️ [BeresinAplikasi](https://beresinaplikasi.com) — AI-assisted app audits & fixes
 
 **Now playing with:** AI agents, MCP servers, LLM routing, and how small teams run like big ones with agents doing the boring parts.
 
