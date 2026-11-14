@@ -10,7 +10,7 @@
 
 I build and run my own AI education ecosystem:
 
-- 🤖 [KelasClaude](https://kelasclaude.com) — Master Claude Code & agentic workflows for Indonesian devs
+- 🤖 [KelasClaude](https://kelasclaude.com) — Master Claude & agentic workflows
 - ⚡ [JagoHermes](https://jagohermes.com) — Build, extend & automate with Hermes Agent
 - 🌱 [BelajarVibeCoding](https://belajarvibecoding.com) — Ship your first real app with AI
 - 🤝 [Ailene](https://ailene.id) — AI-powered learning experiences
